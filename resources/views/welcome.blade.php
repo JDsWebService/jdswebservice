@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    JD's Web Service
                 </div>
 
                 <div class="links">
